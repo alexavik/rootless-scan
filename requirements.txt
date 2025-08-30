@@ -1,0 +1,7 @@
+aiohttp
+aiodns
+asyncio
+rich
+colorama
+dnspython
+requests
