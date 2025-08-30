@@ -1,25 +1,31 @@
-<h1 align="center">🚀 RootlessNetScan</h1>
+<h1 align="center">🌐 RootlessNetScan</h1>
+
 <p align="center">
-  <b>Advanced Network Scanning Without Root Access</b><br>
-  <i>Fast · Async · Cross-Platform · Rootless</i>
+  <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20Mac-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+</p>
+
+<p align="center">
+  <b>🚀 Advanced Rootless Network Scanning Tool</b><br>
+  <i>Fast · Secure · Cross-Platform · No Root Required</i>
 </p>
 
 ---
 
-<h2 align="center">✨ Features</h2>
+## ✨ Key Features
 
-<ul>
-  <li>⚡ High-speed async <b>port scanning</b></li>
-  <li>🌍 <b>Host discovery</b> via TCP probes</li>
-  <li>📜 <b>Banner grabbing</b> & TLS certificate parsing</li>
-  <li>🔎 <b>Reverse DNS lookups</b></li>
-  <li>📊 <b>JSON & HTML reports</b></li>
-  <li>💻 Works on <b>Linux, Windows, Mac</b> without root</li>
-</ul>
+- ⚡ **Async Ultra-Fast Port Scanning**
+- 🌍 **Host Discovery** via TCP/ICMP probes
+- 🔑 **Banner & TLS Certificate Grabber**
+- 🛰 **Reverse DNS Lookup**
+- 📊 **Reports in JSON + HTML formats**
+- 🚫 **Rootless** — runs without admin privileges
+- 💻 Cross-platform: **Linux | Windows | Mac**
 
 ---
 
-<h2 align="center">📥 Installation</h2>
+## 📥 Installation
 
 ```bash
 git clone https://github.com/alexavik/rootless-netscan.git
