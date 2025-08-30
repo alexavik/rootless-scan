@@ -1,0 +1,4 @@
+# Example targets (only scan networks you own)
+127.0.0.1
+192.168.1.1
+# add other IPs you are allowed to scan, one per line
